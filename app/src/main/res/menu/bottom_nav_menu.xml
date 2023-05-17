@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:sweet="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:enabled="true"
+        android:icon="@mipmap/menu_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@mipmap/menu_workout"
+        android:title="Workouts" />
+
+    <item
+        android:id="@+id/nav_bmi"
+        android:icon="@mipmap/menu_bmi"
+        android:title="BMI" />
+
+    <item
+        android:id="@+id/nav_yoga"
+        android:icon="@mipmap/menu_pregnancy"
+        android:title="Yoga" />
+
+
+    <item
+        android:id="@+id/navigation_rem"
+        android:icon="@mipmap/menu_reminder"
+        android:title="Reminder" />
+</menu>

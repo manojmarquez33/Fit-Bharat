@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:sweet="http://schemas.android.com/apk/res-auto"
+    tools:context="com.cybercats.fitbharat.pregnancyyoga">
+
+
+    <ViewFlipper
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/viewFlipper">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView"
+            android:src="@drawable/preg_yoga_1"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView2"
+            android:src="@drawable/preg_yoga_2"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView"
+            android:src="@drawable/preg_yoga_3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView2"
+            android:src="@drawable/preg_yoga_4"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView"
+            android:src="@drawable/preg_yoga_5"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView2"
+            android:src="@drawable/preg_yoga_6"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView"
+            android:src="@drawable/preg_yoga_7"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView2"
+            android:src="@drawable/preg_yoga_8"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView"
+            android:src="@drawable/preg_yoga_9"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:id="@+id/imageView2"
+            android:src="@drawable/preg_yoga_10"/>
+
+    </ViewFlipper>
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:textColor="#ffff"
+        android:background="@drawable/a2_grad"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="310dp"
+        />
+
+    <Button
+        android:id="@+id/previous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prev"
+        android:textColor="#ffff"
+        android:background="@drawable/a2_grad"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+      />
+</RelativeLayout>

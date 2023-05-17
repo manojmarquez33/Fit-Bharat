@@ -1,0 +1,230 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Fit Bharat</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+
+
+
+
+
+    <string name="backtext">Click BACK again to exit</string>
+
+
+    <string name="base64">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqpT5VjzACxnM3QpZVYzu4yGF7xlSlRULtMxZkXzDDLN3p9eGUJwIRAM8a5FnYXW/LbyF6GSW94juXPoVZsODku6z2AIRIogHU2VeGZfDCtNmtffpYy7ddSZs9mjMFCBn/N9dAE+Jtanc+NZDYHmDJP4VzpE5SC/2TolJObSTZYVYjcxymUkLdWyZh58EpCx+cnZGzxVwup+ow2BpPjGAo3HLjQCGqS+1Uk2TbaTlhUFAnbp0PYJzZa13NFxiHN2dmHDjlLNo32+MpfOMGI0jmBzAiBRk47JDQH65qIYo4IqBgjIw2Txp7l+LetzmK5euZAUZewrvbqJZy5gytLqsYQIDAQAB</string>
+
+    <string name="give_feedback">Please give your feedback</string>
+    <string name="google_api_key">AIzaSyBA6dCyP4VrqVSor7tAUjWw8FThJlR6N48</string>
+    <string name="google_app_id">1:776761283214:android:f33b1f2bbbf1b489</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBA6dCyP4VrqVSor7tAUjWw8FThJlR6N48</string>
+
+    <string name="install_now_btn">Install Now</string>
+
+    <string name="invite_friends_share_other_message">Hi,\10Check Out Health Calculator Pro.\10 Download Now https://play.google.com/store/apps/details?id=com.pragma.offshore.bmicalculator</string>
+
+
+
+
+
+
+    <string name="super_active">I am super active (very hard exercise or sports and a physical job or 2x training)</string>
+    <string name="thrusday">Thu</string>
+
+
+    <!--    medicine_reminder-->
+    <string name="title_activity_add_reminder">Add Medicine</string>
+    <string name="title_activity_edit_reminder">Edit Medicine</string>
+    <string name="add_Medicion">Medicine Name</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+    <string name="my_medication">Medicine Manager</string>
+
+    <string name="no_reminders">Click on the plus button below to begin creating your Medicine reminders!</string>
+    <string name="pill_notification">Hey Dude… Take a Medicine…</string>
+
+
+    <!--    work out-->
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="cycles">cycles</string>
+    <string name="day">Day</string>
+    <string name="day1">Day 1</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day2">Day 2</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day3">Day 3</string>
+    <string name="day30">Day 30</string>
+    <string name="day4">Day 4</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+
+    <string name="default_notification_channel_name">30-Day workout</string>
+    <string name="default_web_client_id">189479422266-endj819hpiq9i6njiu2sb9imu6sopqi7.apps.googleusercontent.com</string>
+    <string name="desc_cat_cow_stretch">Initially, be in tabletop position. Inhale, move your belly towards the floor, lift your chin up in the cow pose. Now, exhale by moving your back and belly upwards towards the ceiling in the cat pose. Repeat it.</string>
+    <string name="desc_downward_facing_dog_pose">Lie down with your face, towards the ground and hands on your side. Now, with the support of your hands, lift the body and move to the table top position. Exhale and lift your hip towards the sky.</string>
+    <string name="desc_dry_land_swim">Lie down with your face, towards the ground and hands stretched forward. Lift your right arm and left leg above the ground. Be in this position. Repeat the same on the other side.</string>
+    <string name="desc_forward_spine_stretch">Sit down on the floor with your legs forward . Now stretch your arms forward. Then return back to the initial position.</string>
+    <string name="desc_hands_on_the_head_bow_down">Keep your hands on the back of your head. Now bend forward. Then return back to the initial position.</string>
+    <string name="desc_hanging_exercise">Initially, hang on a pole. Now raise both your legs. Then return back to the initial position.</string>
+    <string name="desc_hopping_with_one_leg">Initially rest on one leg. Then hop as high as you can, around 10 to 15 times. Repeat it on the other side.</string>
+    <string name="desc_pelvic_shift">Lie on your back with your legs tilted and arms by the side. Now raise your hips and be in this position for some time. Then lower your hips.</string>
+    <string name="desc_pilates_roll_over">Lie on your back with your arms by the side. Now raise your legs together at 90 degree angle. Then exhale, lower your body to a horizontal position and further. Caution : While lowering your body, do not try to stretch beyond your limits. If you feel any discomfort or pain, immediately consult a doctor.</string>
+    <string name="desc_plank">Be on your toes and forearms with your body straight. Stay in this position for as long as possible.</string>
+    <string name="desc_rope_jumping">Rope jumping is skipping. For this you need a skipping rope. Do it in sets of 15 as a beginner. Gradually increase the count.</string>
+    <string name="desc_seated_toe_touch">Sit with your legs stretched forward. Now raise your legs and stretch your body with your arms forward, then touch the knee and if possible the shin and toe.</string>
+    <string name="desc_spot_jumping">Initially, stand on your feet. Now raise your arms straight and upwards, then start jumping. Repeat it for 2 minutes.</string>
+    <string name="desc_standing_vertical_stretch">Stand with your feet wider than your hips. Inhale, stretch your arms over your head and lock your hands. Now inhale and lean towards the left, then exhale and return back to the initial position. Repeat the same on the other side.</string>
+    <string name="desc_super_cobra_stretch">Initially, keep your arms perpendicular to the ground and your spine arched. Bend your hips and bring the body to a V shaped position. Be in this position for sometime and then return back to the initial position.</string>
+    <string name="desc_table_top">Sit with your legs stretched forward with hands on the side and palms touching the ground. Now lift your body by pressing the arms and feet on the ground to make a table like shape. Stay in this position for about 15 seconds and then return back to the initial position. Repeat it.</string>
+    <string name="desc_triangle_pose">Stretch your legs, a little more than the shoulder width. Turn your right toe to the side. Inhale and raise your arms to the side. Exhale and stretch your right hand to touch the shin by tilting your hip, the left hand should be pointing towards the sky. Take two to three long, slow breaths through your nose. Inhale and come back to the initial position. Repeat the same on the other side.</string>
+    <string name="desc_two_straight_legs_up">Lie on your back with your hands by the side. Raise your legs above the ground at 90 degree. Now with the support of your forearms, lift your body and legs further up towards the ceiling, with the hands placed at the back for support.</string>
+    <string name="desc_wall_stretch">Lean against a wall with your hands. Now stretch with your left leg, a feet away from the wall and your right leg, a feet away from your left leg. Repeat on the other side.</string>
+    <string name="dietplan">Diet Plan</string>
+    <string name="dinner">Dinner</string>
+    <string name="downward_facing_dog_pose">downward facing dog pose</string>
+    <string name="dry_land_swim">dry land swim</string>
+    <string name="eightpieces">*8 pieces</string>
+    <string name="exercises">Exercises</string>
+    <string name="extralongheight">Extra Long Height. Practice Yoga Asanas and take enough rest and sleep well. Eat at the right time. Be more confident. Improve your posture. Maintain your balanced food and add more fresh fruits and leafy vegetables</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="fatfreemilk">Fat-free milk</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="female">Female</string>
+    <string name="fifteeneggs">*15 eggs</string>
+    <string name="fifteenpieces">*15 pieces</string>
+    <string name="fifteentimes">*15 times</string>
+    <string name="firebase_database_url">https://height-gain-7eb44.firebaseio.com</string>
+    <string name="fiveoatmealcookies">5 oatmeal cookies</string>
+    <string name="fivetimes">*5 times</string>
+    <string name="fivewalnuts">5 Walnuts</string>
+    <string name="forblackcoffee4times">for black coffee *4 times</string>
+    <string name="fordinneronetimes">for dinner *1 time</string>
+    <string name="forherbaltea2times">for herbal tea *2 times</string>
+    <string name="forlemonjuice1times">for lemon juice *1 times</string>
+    <string name="forlemonjuice2">for lemon juice * 2 times</string>
+    <string name="forlemonjuice2times">for lemon juice *2 times</string>
+    <string name="forlemonjuice3times">for lemon juice *3 times</string>
+    <string name="formaincourseonetimes">for main course *1 time</string>
+    <string name="formaincoursetimes">for main course *2 times</string>
+    <string name="forsalad10times">for salad * 10 times</string>
+    <string name="forsaladandsnack10times">for salad and snack *10 times</string>
+    <string name="forsaladonetimes">for salad *1 times</string>
+    <string name="forsaladsoupandotherdishes15times">for salad, soup and other dishes *15 times</string>
+    <string name="forsaladsoupandotherdishes24times">for salad, soup and other dishes *24 times</string>
+    <string name="forsaladsoupandotherdishes28times">for salad, soup and other dishes *28 times</string>
+    <string name="forsaladsoupandotherpurposesfifteentimes">for salad , soup and other purposes *15 times</string>
+    <string name="forsaladsoupandotherpurposesseventimes">for salad , soup and other purposes *7 times</string>
+    <string name="forsaladsoupandotherpurposesthreetimes">for salad , soup and other purposes *3 times</string>
+    <string name="forsaladsoupandotherpurposestimes">for salad , soup and other purposes *22 times</string>
+    <string name="forsaladsoupandotherpurposestwentyonetimes">for salad , soup and other purposes *21 times</string>
+    <string name="forsaladsoupandothertwentythreepurposestimes">for salad , soup and other purposes *23 times</string>
+    <string name="super_cobra_stretch">super cobra stretch</string>
+    <string name="pilates_roll_over">pilates roll over</string>
+    <string name="hopping_with_one_leg">hopping with one leg</string>
+    <string name="cat_cow_stretch">cat cow stretch</string>
+    <string name="forward_spine_stretch">forward spine stretch</string>
+    <string name="forwheatwrap6times">for wheat wrap * 6 times</string>
+    <string name="forwheatwrap7times">for wheat wrap * 7 times</string>
+    <string name="rope_jumping">rope jumping</string>
+    <string name="plank">plank</string>
+    <string name="triangle_pose">triangle pose</string>
+    <string name="peanutbutter">Peanut butter</string>
+    <string name="pelvic_shift">pelvic shift</string>
+    <string name="spot_jumping">spot jumping</string>
+    <string name="standarddiet">Standard Diet</string>
+    <string name="standing_vertical_stretch">standing vertical stretch</string>
+    <string name="wall_stretch">wall stretch</string>
+    <string name="wed">Wednesday</string>
+    <string name="week1">WEEK 1</string>
+    <string name="week2">WEEK 2</string>
+    <string name="week3">WEEK 3</string>
+    <string name="week4">WEEK 4</string>
+    <string name="week5">WEEK 5</string>
+    <string name="weight">Weight</string>
+    <string name="weightloss">Weight Loss</string>
+    <string name="wheatforwraps">Wheat for wrapes</string>
+    <string name="wholewheatmultigrainbread">Whole wheat multigrain bread</string>
+    <string name="year">yr</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="seated_toe_touch">seated toe touch</string>
+    <string name="Exercise">Exercise</string>
+
+    <string name="seconds">seconds</string>
+    <string name="greekyogurt">Greek yogurt</string>
+    <string name="greenteapowder">Green tea powder</string>
+    <string name="hands_on_the_head_bow_down">hands on the head bow down</string>
+    <string name="hanging_exercise">hanging exercise</string>
+    <string name="two_straight_legs_up">two straight legs up</string>
+    <string name="sun">Sunday</string>
+    <string name="table_top">table top</string>
+    <string name="font_light">fonts/proximanova_light.otf</string>
+
+
+    <string name="tip1">Avoid injuries. Carefully follow the instructions, for each of the workouts, to prevent injuries.</string>
+    <string name="tip10">Get adequate sleep of around 7 -8 hours. Insufficient sleep can lead to heart diseases, high blood pressure, diabetes, obesity etc.</string>
+    <string name="tip2">For your workout, buy shoes that are comfortable. It is better to go for training shoes, as it will give you the comfort and the grip that you are looking for. Replace shoes once in six months.</string>
+    <string name="tip3">Exercise in the morning. Exercising in the morning promotes weight loss, prevents diabetes, lowers blood pressure, keeps you active throughout the day and has many more benefits.</string>
+    <string name="tip4">Have a complete breakfast. Let the breakfast be the heaviest meal in the day. After a good night sleep, you need a nutritious breakfast to kick start your day.</string>
+    <string name="tip5">Drink sufficient quantity of water. Men should consume about 3.7 liters of water per day and women should consume about 2.7 liters of water per day.</string>
+    <string name="tip6">Always make sure, you have a rest day in between your workout days. Let every fourth day be a rest day. Taking rest will help your muscles to grow.</string>
+    <string name="tip7">Avoid junk food as it is high in calories. Junk food can cause obesity, heart diseases and other health conditions.</string>
+    <string name="tip8">Eat a healthy diet. Consume protein rich and low calorie food, as it gives you sufficient strength during workouts and builds muscles.</string>
+    <string name="tip9">Increase your fiber intake. Fiber intake aids digestion and also helps to lose weight and improves your heart health. Consume fiber rich food like beans, broccoli, oatmeal etc.</string>
+
+    <string name="start">Start</string>
+    <string name="mon">Monday</string>
+    <string name="tu">Tuesday</string>
+    <string name="thri">Thrusday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="noreminders">Please set reminder</string>
+
+    <!--  BMI strings -->
+
+    <string name="bmi">BMI Calculator</string>
+    <string name="bmichart">BMI Chart</string>
+    <string name="labelWeight">Enter Your Weight in KG</string>
+    <string name="labelheight">Enter Your Height in CM</string>
+    <string name="btncalc">Calculate BMI</string>
+
+    <string name="under">Underweight</string>
+    <string name="normal">Your Weight Is Normal</string>
+    <string name="over">You Are Overweight</string>
+    <string name="obease">Obesity</string>
+    <string name="exobease">You Are Extremely Obese</string>
+
+    <string name="Overweight_BMI">Overweight BMI :</string>
+    <string name="Obese_BMI">Obese BMI :</string>
+    <string name="Morbidly_BMI">Morbidly Obease :</string>
+    <string name="Normal_weight_BMI">Normal weight BMI :</string>
+
+</resources>
